@@ -4,7 +4,7 @@ Este repositorio contiene el diccionario español cortesía de [LibreOffice](htt
 
 También contiene un paquete incluyendo el diccionario español para el uso en Sublime Text 2 ó 3.
 
-## Activar el Corrector Ortográfico
+## Activar el Corrector Ortográfico (Sublime text)
 
 Los pasos pueden variar dependiendo de la versión de **Sublime Text**.
 
